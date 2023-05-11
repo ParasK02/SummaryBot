@@ -10,9 +10,10 @@ Use the package manager [npm](https://nodejs.org/en) to run Summz.
 npm run dev
 ```
 ## Usage
-1. Copy and paste the link into the search bar
-2. Wait for Summz to summarize webpage 
-3. Read the beautiful summary made by AI
+1. Access the site using this [link](https://zesty-rolypoly-96e865.netlify.app/)
+2. Copy and paste the link into the search bar
+3. Wait for Summz to summarize webpage 
+4. Read the beautiful summary made by AI
 
 
 https://github.com/ParasK02/SummaryBot/assets/90861109/afd8635c-f3a2-4207-8885-a9726a336eaa
