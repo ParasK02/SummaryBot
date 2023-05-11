@@ -9,7 +9,11 @@ Use the package manager [npm](https://nodejs.org/en) to run Summz.
 ```bash
 npm run dev
 ```
+Add the API key into a .env from the root of the project using the name VITE_RAPID_API_ARTICLE_KEY
+
 ## Usage
+(The API key is having trouble with the hosting platform but you can get your own for free from [RapidAPI](https://rapidapi.com/restyler/api/article-extractor-and-summarizer) and install it using the instillation instructions.
+
 1. Access the site using this [link](https://zesty-rolypoly-96e865.netlify.app/)
 2. Copy and paste the link into the search bar
 3. Wait for Summz to summarize webpage 
