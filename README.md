@@ -25,4 +25,4 @@ https://github.com/ParasK02/SummaryBot/assets/90861109/afd8635c-f3a2-4207-8885-a
 
 
 ## Credits
-This application was a project from the course [JavaScript Mastery Course](https://www.jsmastery.pro/complete-path-to-javascript-mastery) I am taking.
+This application was a project from the course JavaScript Mastery Course by @adrianhajdin.
